@@ -18,6 +18,17 @@ public class fieldValidation
         return regex.IsMatch(text);
     }
 
+
+    // user input of IP address
+    public static bool isMoney(string text)
+    {
+        Regex regex = new Regex(@"^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3} (?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$");
+        return regex.IsMatch(text);
+    }
+
+
+
+
     // Match all alphanumeric character and predefined wild characters '@*#.'. Password must be between 6 and 50 characters.
     public static bool isPassword(string text)
     {
