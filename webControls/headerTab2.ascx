@@ -27,7 +27,7 @@
 				        <td width="140" height="30"><a href="../helpCentricAdmin/helpTickets.aspx"><asp:Image ID="Image24" runat="server" ImageUrl="../images/helpCentricAdmin_Tab2_R1C1.jpg" border="0" width="140" height="30" alt="Help Tickets" toolTip="Help Tickets" /></a></td>	
 				        <td width="140" height="30"><a href="../helpCentricAdmin/companies.aspx"><asp:Image ID="Image7" runat="server" ImageUrl="../images/helpCentricAdmin_Tab2_R1C2.jpg"  border="0" width="140" height="30" alt="Companies" toolTip="Companies" /></a></td>	
 				        <td width="140" height="30"><a href="../helpCentricAdmin/contacts.aspx"><asp:Image ID="Image9" runat="server" ImageUrl="../images/helpCentricAdmin_Tab2_R1C3.jpg"  border="0" width="140" height="30" alt="Contacts" toolTip="Contacts" /></a></td>	
-				        <td width="140" height="30"></td>	
+				        <td width="140" height="30"><a href="../helpCentricAdmin/solutions.aspx"><asp:Image ID="Image9" runat="server" ImageUrl="../images/helpCentricAdmin_Tab2_R1C3.jpg"  border="0" width="140" height="30" alt="Contacts" toolTip="Contacts" /></a></td>
 				        <td width="140" height="30"></td>	
 				        <td width="140" height="30"></td>	
 				        <td width="140" height="30"></td>	
